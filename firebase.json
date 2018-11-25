@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "blog-khroliz-com",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

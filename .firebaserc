@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "khroliz-com"
+  },
+  "targets": {
+    "khroliz-com": {
+      "hosting": {
+        "blog-khroliz-com": [
+          "blog-khroliz-com"
+        ]
+      }
+    }
+  }
+}
